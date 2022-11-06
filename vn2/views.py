@@ -177,7 +177,7 @@ def home(request):
 		],
 	})
 	obj['works'].append({
-		"title" : "Havik Air Strike VR",
+		"title" : "Military Training VR Sim",
 		"background" : "",
 		"position" : "Developer, Game Designer",
 		"link" : "https://www.havik.us",
